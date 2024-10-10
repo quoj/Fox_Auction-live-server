@@ -1,0 +1,42 @@
+.main-image {
+  width: 90%;  /* Tăng kích thước hình ảnh chính */
+  max-height: 500px;  /* Giữ lại giới hạn chiều cao */
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.main-image {
+  width: 100%; /* Điều chỉnh độ rộng hình ảnh */
+  height: auto; /* Để đảm bảo tỷ lệ khung hình không bị thay đổi */
+  max-width: 800px; /* Thay đổi giá trị này để kiểm soát kích thước tối đa của hình ảnh */
+  border-radius: 8px; /* Tùy chọn: Thêm bo góc cho hình ảnh */
+}
+
+
+.custom-line {
+  height: 3px;
+  background-color: black;
+}
+
+.product-info {
+  font-size: 14px;
+}
+
+.product-title h2 {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.product-bid h3 {
+  font-weight: bold;
+  color: #000;
+}
+
+.bid-input input {
+  width: 100%;
+}
+
+.seller-info p {
+  margin-bottom: 5px;
+}
+

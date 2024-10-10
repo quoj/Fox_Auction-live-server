@@ -1,0 +1,29 @@
+/* App.css */
+nav {
+  background-color: #f8f9fa; /* Light background color */
+  padding: 10px 20px; /* Padding for spacing */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+nav ul {
+  list-style: none; /* Remove default list styling */
+  display: flex; /* Align items horizontally */
+  justify-content: space-around; /* Evenly space items */
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  margin: 0 10px; /* Space between items */
+}
+
+nav ul li a {
+  text-decoration: none; /* Remove underline from links */
+  color: #333; /* Dark text color */
+  font-weight: bold; /* Bold text */
+  font-size: 16px; /* Font size */
+}
+
+nav ul li a:hover {
+  color: #007bff; /* Change color on hover */
+}
