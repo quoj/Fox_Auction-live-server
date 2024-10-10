@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Fox_Auction-live-server/precache-manifest.4a709722351db3b2f50ae83c278d1779.js"
+  "/Fox_Auction-live-server/precache-manifest.4443dd7e0575676f79b9305880902f48.js"
 );
 
 self.addEventListener('message', (event) => {
