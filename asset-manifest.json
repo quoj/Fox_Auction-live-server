@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Fox-Auction/static/css/main.ae87a2bd.chunk.css",
-    "main.js": "/Fox-Auction/static/js/main.e4398951.chunk.js",
-    "main.js.map": "/Fox-Auction/static/js/main.e4398951.chunk.js.map",
-    "runtime~main.js": "/Fox-Auction/static/js/runtime~main.638ef2b0.js",
-    "runtime~main.js.map": "/Fox-Auction/static/js/runtime~main.638ef2b0.js.map",
-    "static/css/2.98036eff.chunk.css": "/Fox-Auction/static/css/2.98036eff.chunk.css",
-    "static/js/2.57bf154f.chunk.js": "/Fox-Auction/static/js/2.57bf154f.chunk.js",
-    "static/js/2.57bf154f.chunk.js.map": "/Fox-Auction/static/js/2.57bf154f.chunk.js.map",
-    "static/js/3.65a8b092.chunk.js": "/Fox-Auction/static/js/3.65a8b092.chunk.js",
-    "static/js/3.65a8b092.chunk.js.map": "/Fox-Auction/static/js/3.65a8b092.chunk.js.map",
-    "index.html": "/Fox-Auction/index.html",
-    "precache-manifest.e59583bfa823580125aeefda84d10d33.js": "/Fox-Auction/precache-manifest.e59583bfa823580125aeefda84d10d33.js",
-    "service-worker.js": "/Fox-Auction/service-worker.js",
-    "static/css/2.98036eff.chunk.css.map": "/Fox-Auction/static/css/2.98036eff.chunk.css.map",
-    "static/css/main.ae87a2bd.chunk.css.map": "/Fox-Auction/static/css/main.ae87a2bd.chunk.css.map"
+    "main.css": "/Fox_Auction-live-server/static/css/main.ae87a2bd.chunk.css",
+    "main.js": "/Fox_Auction-live-server/static/js/main.e4398951.chunk.js",
+    "main.js.map": "/Fox_Auction-live-server/static/js/main.e4398951.chunk.js.map",
+    "runtime~main.js": "/Fox_Auction-live-server/static/js/runtime~main.84fa3132.js",
+    "runtime~main.js.map": "/Fox_Auction-live-server/static/js/runtime~main.84fa3132.js.map",
+    "static/css/2.98036eff.chunk.css": "/Fox_Auction-live-server/static/css/2.98036eff.chunk.css",
+    "static/js/2.57bf154f.chunk.js": "/Fox_Auction-live-server/static/js/2.57bf154f.chunk.js",
+    "static/js/2.57bf154f.chunk.js.map": "/Fox_Auction-live-server/static/js/2.57bf154f.chunk.js.map",
+    "static/js/3.65a8b092.chunk.js": "/Fox_Auction-live-server/static/js/3.65a8b092.chunk.js",
+    "static/js/3.65a8b092.chunk.js.map": "/Fox_Auction-live-server/static/js/3.65a8b092.chunk.js.map",
+    "index.html": "/Fox_Auction-live-server/index.html",
+    "precache-manifest.4a709722351db3b2f50ae83c278d1779.js": "/Fox_Auction-live-server/precache-manifest.4a709722351db3b2f50ae83c278d1779.js",
+    "service-worker.js": "/Fox_Auction-live-server/service-worker.js",
+    "static/css/2.98036eff.chunk.css.map": "/Fox_Auction-live-server/static/css/2.98036eff.chunk.css.map",
+    "static/css/main.ae87a2bd.chunk.css.map": "/Fox_Auction-live-server/static/css/main.ae87a2bd.chunk.css.map"
   }
 }
